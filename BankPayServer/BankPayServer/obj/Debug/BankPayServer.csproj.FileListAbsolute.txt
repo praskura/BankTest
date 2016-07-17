@@ -1,0 +1,26 @@
+c:\users\dns1\documents\visual studio 2015\Projects\BankPayServer\BankPayServer\bin\Debug\BankPayServer.exe.config
+c:\users\dns1\documents\visual studio 2015\Projects\BankPayServer\BankPayServer\bin\Debug\BankPayServer.exe
+c:\users\dns1\documents\visual studio 2015\Projects\BankPayServer\BankPayServer\bin\Debug\BankPayServer.pdb
+c:\users\dns1\documents\visual studio 2015\Projects\BankPayServer\BankPayServer\obj\Debug\BankPayServer.exe
+c:\users\dns1\documents\visual studio 2015\Projects\BankPayServer\BankPayServer\obj\Debug\BankPayServer.pdb
+c:\users\dns1\documents\visual studio 2015\Projects\BankPayServer\BankPayServer\obj\Debug\BankPayServer.csprojResolveAssemblyReference.cache
+C:\Users\Dns1\OneDrive\Test_Payler_Praskura\BankPayServer\BankPayServer\bin\Debug\BankPayServer.exe.config
+C:\Users\Dns1\OneDrive\Test_Payler_Praskura\BankPayServer\BankPayServer\obj\Debug\BankPayServer.exe
+C:\Users\Dns1\OneDrive\Test_Payler_Praskura\BankPayServer\BankPayServer\obj\Debug\BankPayServer.pdb
+C:\Users\Dns1\OneDrive\Test_Payler_Praskura\BankPayServer\BankPayServer\obj\Debug\BankPayServer.csprojResolveAssemblyReference.cache
+C:\Users\Dns1\OneDrive\Test_Payler_Praskura\BankPayServer\BankPayServer\bin\Debug\BankPayServer.exe
+C:\Users\Dns1\OneDrive\Test_Payler_Praskura\BankPayServer\BankPayServer\bin\Debug\BankPayServer.pdb
+C:\Users\Dns1\Desktop\Новая папка (2)\BankPayServer\BankPayServer\bin\Debug\BankPayServer.exe.config
+C:\Users\Dns1\Desktop\Новая папка (2)\BankPayServer\BankPayServer\obj\Debug\BankPayServer.exe
+C:\Users\Dns1\Desktop\Новая папка (2)\BankPayServer\BankPayServer\obj\Debug\BankPayServer.pdb
+C:\Users\Dns1\Desktop\Новая папка (2)\BankPayServer\BankPayServer\bin\Debug\BankPayServer.exe
+C:\Users\Dns1\Desktop\Новая папка (2)\BankPayServer\BankPayServer\bin\Debug\BankPayServer.pdb
+C:\Users\Dns1\Desktop\Новая папка (2)\BankPayServer\BankPayServer\obj\Debug\BankPayServer.csprojResolveAssemblyReference.cache
+C:\Users\Dns1\Desktop\no\BankPayServer\BankPayServer\bin\Debug\BankPayServer.exe.config
+C:\Users\Dns1\Desktop\no\BankPayServer\BankPayServer\obj\Debug\BankPayServer.exe
+C:\Users\Dns1\Desktop\no\BankPayServer\BankPayServer\obj\Debug\BankPayServer.pdb
+C:\Users\Dns1\Desktop\no\BankPayServer\BankPayServer\bin\Debug\BankPayServer.exe
+C:\Users\Dns1\Desktop\no\BankPayServer\BankPayServer\bin\Debug\BankPayServer.pdb
+C:\Users\Dns1\Desktop\no\BankPayServer\BankPayServer\bin\Debug\System.Net.Http.dll
+C:\Users\Dns1\Desktop\no\BankPayServer\BankPayServer\bin\Debug\System.Net.Http.xml
+C:\Users\Dns1\Desktop\no\BankPayServer\BankPayServer\obj\Debug\BankPayServer.csprojResolveAssemblyReference.cache
